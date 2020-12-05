@@ -13,3 +13,7 @@ the defualt prefix is q!
 ### bot
 
 you mite came here because of security reasons! that bot sends! [go to here](security.md)
+
+
+### need more info?
+go to [main,md](main.md) 
