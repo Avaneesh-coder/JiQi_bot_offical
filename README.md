@@ -16,4 +16,4 @@ you mite came here because of security reasons! that bot sends! [go to here](sec
 
 
 ### need more info?
-go to [main,md](main.md) 
+go to [main.md](main.md) 
